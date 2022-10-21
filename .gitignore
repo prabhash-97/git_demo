@@ -1,0 +1,8 @@
+#hide .log and .db files
+file.log
+*.log
+*.db
+
+# hide traget folder
+/target
+/bin
